@@ -6,7 +6,9 @@
 ___
 
 I'm interested in the programming process itself. When a project gets better each time, it is very pleasing. I want to improve my developer skills and learn new useful frameworks. I made projects:
-- 
+- [Calculator](github.com/Alexandr123000/Calculator)
+- [Timer](github.com/Alexandr123000/Timer)
+- [Warehouse](github.com/Alexandr123000/Warehouse)
 
 ### About me
 - I like learning programming languages
